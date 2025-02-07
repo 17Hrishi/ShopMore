@@ -44,7 +44,6 @@ This project is licensed under the MIT License.
 ## Contact
 For any queries, feel free to reach out:
 - GitHub: [17hrishi](https://github.com/17hrishi)
-- Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 Happy Shopping! 🛍️
